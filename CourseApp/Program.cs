@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Matan
+namespace laba2
 {
     class Program
     {
