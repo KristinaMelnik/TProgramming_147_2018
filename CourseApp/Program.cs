@@ -2,7 +2,7 @@
 
 namespace laba2
 {
-    class Program
+    public class Program
     {
         public static double y(double x, double a, double b)
         {
