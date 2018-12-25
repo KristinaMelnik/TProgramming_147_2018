@@ -1,5 +1,5 @@
 ﻿using System;
-
+using CourseApp;
 namespace laba2
 {
     public class Program
@@ -32,6 +32,8 @@ namespace laba2
             {
                 Console.WriteLine($"Для x = {i}\t y = {y(i, a, b):f3}");
             }
+            Rabbit first = new Rabbit(5, "Tom");
+            first.GetInfo();
         }
     }
 }
